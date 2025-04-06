@@ -1,4 +1,4 @@
-# Sudoku-Game
+# Sudoku-Game-Java
 This is a basic sudoku game made using java. Pls find the files attached of the project.
 NOTE: This game is made only using java , no other languages are used.
 
